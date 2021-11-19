@@ -1,0 +1,7 @@
+$lg: 400px;
+
+@mixin for-large-down {
+  @media screen and (max-width: $lg - 1) {
+    @content;
+  }
+}

@@ -1,0 +1,18 @@
+@import './breakpoints.scss';
+@import './price-page.scss';
+@import './variables.scss';
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: $background-color-dark;
+  height: 1000px;
+  color: $text-color-whiteff;
+}
+div {
+  background-color: $background-color-grey;
+  max-width: 380px;
+  max-height: 770px;
+}
+
