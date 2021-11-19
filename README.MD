@@ -1,6 +1,6 @@
 # **Layout Sample Project**
 
-#### [Site link](file:///C:/Users/Asus/OneDrive/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D1%96%D0%BB/price-card-project/index.html).
+[Site link](file:///C:/Users/Asus/OneDrive/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D1%96%D0%BB/price-card-project/index.html)
 
 ###### Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
