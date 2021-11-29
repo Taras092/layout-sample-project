@@ -4,7 +4,6 @@
 
 body {
   background-color: #141b1c;
-  height: 100vh;
   color: #ffffff;
 }
 
@@ -18,6 +17,7 @@ div {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 @media screen and (max-width: 399px) {
   .main-price {
@@ -87,7 +87,7 @@ div {
   justify-content: center;
   align-items: center;
 }
-.label__container.label {
+.label__container .label {
   background-color: #dc3f45;
   text-transform: uppercase;
   color: #ffffff;
