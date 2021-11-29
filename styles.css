@@ -4,6 +4,7 @@
 
 body {
   background-color: #141b1c;
+  height: 100vh;
   color: #ffffff;
 }
 
@@ -86,7 +87,7 @@ div {
   justify-content: center;
   align-items: center;
 }
-.label__container .label {
+.label__container.label {
   background-color: #dc3f45;
   text-transform: uppercase;
   color: #ffffff;
@@ -153,11 +154,9 @@ div {
   font-size: 14px;
   font-family: Montserrat;
 }
-
 .content-button.two-button {
   background-color: #3a6ba5;
 }
-
 .content-button.three-button {
   background-color: #ec632a;
 }

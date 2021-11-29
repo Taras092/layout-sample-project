@@ -16,7 +16,7 @@
     height: 64px;
     text-align: center;
     line-height: 43px;
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
     font-size: 35px;
     font-weight: 700;
     font-style: normal;
@@ -30,11 +30,11 @@
     justify-content: center;
     align-items: center;
     font-size: 55px;
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
     font-weight: 700;
     font-style: normal;
   }
-  
+
   &.two {
     margin: 65px 15px;
     position: relative;
@@ -42,9 +42,8 @@
   }
 }
 
-
 .little__title {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-size: 20px;
   font-weight: 300;
   line-height: 24px;
@@ -70,14 +69,14 @@
   justify-content: center;
   align-items: center;
 
-  .label {
+  &.label {
     background-color: #dc3f45;
     text-transform: uppercase;
     color: #ffffff;
     transform: rotate(45deg);
     text-align: center;
     height: 25px;
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
     font-weight: 700;
     font-size: 14px;
     line-height: 25px;
@@ -92,7 +91,7 @@
   margin: 40px 26px;
   font-size: 15px;
   font-weight: 300;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   color: #ffffff;
   text-align: center;
   font-style: normal;
@@ -103,7 +102,7 @@
   line-height: 50px;
   font-size: 15px;
   font-weight: 300;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   color: #ffffff;
   font-style: normal;
 }
@@ -132,10 +131,12 @@
   font-weight: 400;
   font-size: 14px;
   font-family: Montserrat;
-}
-.content-button.two-button {
-  background-color: #3a6ba5;
-}
-.content-button.three-button {
-  background-color: #ec632a;
+
+  &.two-button {
+    background-color: #3a6ba5;
+  }
+
+  &.three-button {
+    background-color: #ec632a;
+  }
 }
